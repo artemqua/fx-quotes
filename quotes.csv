@@ -1,6 +1,10 @@
+﻿Loading https://www.profinance.ru/quotes/ ...
+Loading https://www.finam.ru/topic/interbank-market/ ...
+  finam: quote block found after 2s
 Timestamp,Source,Currency Pair,Bid,Ask
-2026-04-10 10:45:33,profinance.ru,USD/JPY,159.285,159.300
-2026-04-10 10:45:33,profinance.ru,USD/CNY,6.8320,6.8332
-2026-04-10 10:45:33,profinance.ru,USD/KZT,472.16,472.35
-2026-04-10 10:45:33,profinance.ru,GBP/USD,1.34215,1.34235
-2026-04-10 10:45:33,profinance.ru,USD/HKD,7.8325,7.8327
+
+2026-04-15 15:14:19,finam.ru,USD/RUB,75.9900,76.0400
+
+2026-04-15 15:14:19,finam.ru,EUR/RUB,89.5616,89.5616
+
+
