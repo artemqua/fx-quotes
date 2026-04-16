@@ -1,10 +1,3 @@
-﻿Loading https://www.profinance.ru/quotes/ ...
-Loading https://www.finam.ru/topic/interbank-market/ ...
-  finam: quote block found after 2s
 Timestamp,Source,Currency Pair,Bid,Ask
-
-2026-04-15 15:14:19,finam.ru,USD/RUB,75.9900,76.0400
-
-2026-04-15 15:14:19,finam.ru,EUR/RUB,89.5616,89.5616
-
-
+2026-04-16 10:00:56,finam.ru,USD/RUB,75.6400,75.6900
+2026-04-16 10:00:56,finam.ru,EUR/RUB,89.2696,89.2696
